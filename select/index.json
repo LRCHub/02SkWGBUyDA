@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Confetti",
+  "base_artist": "Kotoha",
+  "createdAt": "2026-02-26T11:45:28.558242Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stars Like Confetti",
+      "artist": "Dustin Lynch",
+      "has_synced": true,
+      "path": "select/01_Stars_Like_Confetti_Dustin_Lynch.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Confetti",
+      "artist": "Cold Cave",
+      "has_synced": true,
+      "path": "select/02_Confetti_Cold_Cave.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Confetti (Remastered)",
+      "artist": "Tori Kelly",
+      "has_synced": true,
+      "path": "select/03_Confetti_(Remastered)_Tori_Kelly.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Confetti",
+      "artist": "Hilary Duff",
+      "has_synced": true,
+      "path": "select/04_Confetti_Hilary_Duff.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Confetti",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/05_Confetti_Sia.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Confetti",
+      "artist": "Teddi Gold",
+      "has_synced": true,
+      "path": "select/06_Confetti_Teddi_Gold.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Confetti",
+      "artist": "Big K.R.I.T.",
+      "has_synced": true,
+      "path": "select/07_Confetti_Big_K.R.I.T..lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Confetti",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/08_Confetti_Sia.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Confetti Day",
+      "artist": "Hot Chocolate",
+      "has_synced": false,
+      "path": "select/09_Confetti_Day_Hot_Chocolate.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Confetti (feat. Saweetie)",
+      "artist": "Little Mix",
+      "has_synced": false,
+      "path": "select/10_Confetti_(feat._Saweetie)_Little_Mix.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Confetti",
+      "artist": "The Lemonheads",
+      "has_synced": false,
+      "path": "select/11_Confetti_The_Lemonheads.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Confetti",
+      "artist": "The Lemonheads",
+      "has_synced": true,
+      "path": "select/12_Confetti_The_Lemonheads.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Confetti Falling",
+      "artist": "Big Time Rush",
+      "has_synced": true,
+      "path": "select/13_Confetti_Falling_Big_Time_Rush.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Confetti",
+      "artist": "Lemonheads",
+      "has_synced": false,
+      "path": "select/14_Confetti_Lemonheads.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Confetti",
+      "artist": "Little Mix",
+      "has_synced": true,
+      "path": "select/15_Confetti_Little_Mix.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Confetti",
+      "artist": "Kotoha",
+      "has_synced": false,
+      "path": "select/pl_01_Confetti_Kotoha.txt"
+    }
+  ]
+}
